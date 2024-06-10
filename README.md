@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![](#gif ) -->
-
-[<img src="https://media.giphy.com/media/bAS3rxNRgwt8Dl96zY/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" />](https://radwanbek.me/#)
+<!--
+[<img src="/#)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Radwan+;Computer+Engineering+Student+;Software+Engineer;Mobile+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 =======================
-
+-->
 💫 About Me: 
 --------------------
 
