@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 Hello, I am Poyraz Özbeğ. I am a senior student majoring in Computer Engineering and have a deep passion for software development. During my education, I gained advanced proficiency in programming languages such as Java, Python, JavaScript and developed applications in these languages in various projects. I also have experience with tools like Git, Docker and SQL and have developed web applications with modern technologies like React and Node.js.
 
 
-* 🌍  I live in Turkey at the moment<br> * 🖥️  See my portfolio at  [My page](https://poyrazozbeg1.github.io/poyrazozbeg/)<br>
+* 🌍  I live in Turkey at the moment<br>
+* 🖥️  See my portfolio at  [My page](https://poyrazozbeg1.github.io/poyrazozbeg/)<br>
 * ✉️  You can contact me at [Email](mailto:poyrazozbeg@gmail.com)<br>
 * 🧠  I'm learning Full Stack Dev, Mobile Dev, AI and Cyber Security.<br>
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.<br>
