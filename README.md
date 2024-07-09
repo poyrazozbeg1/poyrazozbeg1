@@ -28,10 +28,10 @@ Hello, I am Poyraz Özbeğ. I am a senior student majoring in Computer Engineeri
 * 🌍  I live in Turkey at the moment<br>
 * 🖥️  See my portfolio at  [My page](https://poyrazozbeg1.github.io/poyrazozbeg/)<br>
 * ✉️  You can contact me at [Email](mailto:poyrazozbeg@gmail.com)<br>
-* 🧠   I'm learning Full Stack Dev, Mobile Dev, AI and Cyber Security.<br>
+* 🧠  I'm learning Full Stack Dev, Mobile Dev, AI and Cyber Security.<br>
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.<br>
-* ⚡  I'm always working on my self to become the best version of my self<br>
-* 🚀   See my all projects at [Project List](https://github.com/poyrazozbeg1/projectList)
+* ⚡  I'm always working on my self to become the best version of my self.<br>
+* 🚀  See my all projects at [Project List](https://github.com/poyrazozbeg1/projectList)
 
 
 ## 🌐 Socials:
