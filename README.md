@@ -31,7 +31,7 @@ Hello, I am Poyraz Özbeğ. I am a senior student majoring in Computer Engineeri
 * 🧠  I'm learning Full Stack Dev, Mobile Dev, AI and Cyber Security.<br>
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.<br>
 * ⚡  I'm always working on my self to become the best version of my self<br>
-* 🚀 See my project at [Project List](https://github.com/poyrazozbeg1/projectList)
+* 🚀  See my all projects at [Project List](https://github.com/poyrazozbeg1/projectList)
 
 
 ## 🌐 Socials:
