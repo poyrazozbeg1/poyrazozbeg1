@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![](#gif ) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Poyraz+;b9reas;Computer+Engineer;System+Engineer;AI+Developer;Back+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Poyraz+;b9reas;Computer+Engineer;System+Engineer;Network+Security;Back+End+Developer)](https://git.io/typing-svg)
 =======================
 
 💫 About Me: 
