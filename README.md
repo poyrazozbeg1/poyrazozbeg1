@@ -12,13 +12,12 @@ Hi, I am just a Computer Engineer, not a fancy label such as bla bla developer b
 * This is the list of the projects I publish on github. My projects have absolutely no AI involvement, you can control it if you want. [Project List](https://github.com/poyrazozbeg1/projectList)<br>
 * This is the LinkedIn if you need [LinkedIn](https://www.linkedin.com/in/poyraz-%C3%B6zbe%C4%9F-3303b5226/)<br>
 
-## Tech Stack:https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
-# Mainly these are my fundamental professions:
+## Mainly these are my fundamental professions:
 * Professional level C and C++
 * Linux, Hardware and Network Experience
 * Cyber Security
 * Pyhton - Assembly - Bash
-# My all professions can be seen with projects that I point in Project List [Project List](https://github.com/poyrazozbeg1/projectList)<br>
+### My all professions can be seen with projects that I point in Project List [Project List](https://github.com/poyrazozbeg1/projectList)<br>
 
 
 # 📊 GitHub Stats:
